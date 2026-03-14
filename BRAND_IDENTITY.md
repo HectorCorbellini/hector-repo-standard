@@ -31,10 +31,10 @@ Cada proyecto DEBE responder a:
 - **⚙️ Operational Logic**: El "cómo" técnico que demuestra nuestro dominio del sistema.
 
 ### 2. Clasificación de Proyectos
-Etiquetamos nuestros proyectos para dar claridad al evaluador:
-- `🛡️ Critical Infrastructure`: Sistemas de alta disponibilidad y seguridad física/lógica.
-- `🔐 Digital Trust`: Protocolos, criptografía y atestación.
-- `⚙️ Performance & Tools`: Optimización y herramientas de ingeniería.
+Para mantener un perfil ordenado, categorizamos los repositorios en tres bloques maestros:
+- `🛡️ High Integrity`: Proyectos core, seguridad crítica e impacto social (ej. Ojo de Paz).
+- `🛠️ Engineering & Tools`: Automatización, herramientas de desarrollo y optimización.
+- `📚 Archive & External`: Proyectos legacy (pre-rebranding), experimentos archivados y forks externos.
 
 ---
 
