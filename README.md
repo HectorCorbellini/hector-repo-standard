@@ -10,19 +10,27 @@ Este repositorio centraliza las directrices de documentación, la identidad de m
 
 El objetivo de este repositorio es actuar como la "fábrica de estándares" para asegurar que cada proyecto, ya sea de seguridad crítica o de optimización general, comparta el mismo rigor técnico y claridad operativa.
 
-## 📚 Contenido
+## 📚 Contenido del Ecosistema
 
-| Archivo | Propósito |
-|---------|-----------|
-| [README_TEMPLATE.md](file:///home/uko/CascadeProjects/PESCADORES/Estandares/README_TEMPLATE.md) | Estructura maestra para documentar proyectos con enfoque en el problema/solución. |
-| [BRAND_IDENTITY.md](file:///home/uko/CascadeProjects/PESCADORES/Estandares/BRAND_IDENTITY.md) | Pilares de comunicación, tono de voz y objetivos de impacto social. |
+| Recurso | Propósito | Sector |
+|---------|-----------|--------|
+| [README_TEMPLATE.md](README_TEMPLATE.md) | Estructura maestra Problema/Solución. | Documentación |
+| [BRAND_IDENTITY.md](BRAND_IDENTITY.md) | Guía de comunicación y ADN. | Marca |
+| [GLOSSARY.md](GLOSSARY.md) | Definiciones técnicas unificadas. | Conocimiento |
+| [METHODOLOGY.md](METHODOLOGY.md) | El enfoque "Vibe Coding & Integrity". | Operaciones |
+| [SECURITY.md](SECURITY.md) | Política de reporte ético de fallos. | Gobernanza |
+| [ROADMAP.md](ROADMAP.md) | Futuras expansiones y tareas. | Visión |
 
-## 🚀 Cómo usar estos estándares
+---
 
-Para cada nuevo repositorio:
-1. Copia el [README_TEMPLATE.md](file:///home/uko/CascadeProjects/PESCADORES/Estandares/README_TEMPLATE.md).
-2. Sigue las guías de [BRAND_IDENTITY.md](file:///home/uko/CascadeProjects/PESCADORES/Estandares/BRAND_IDENTITY.md) para redactar las secciones de impacto y lógica operativa.
-3. Incluye una referencia a este repositorio central en el footer de tus proyectos.
+## 🚀 Implementación en tus Proyectos
+
+Para que un repositorio cumpla con estos estándares, debe:
+1.  **Seguir el Template**: Usar la estructura de [README_TEMPLATE.md](README_TEMPLATE.md).
+2.  **Hablar con Autoridad**: Usar los términos definidos en el [GLOSSARY.md](GLOSSARY.md).
+3.  **Seguir la Metodología**: Aplicar los principios de [METHODOLOGY.md](METHODOLOGY.md).
+4.  **Habilitar la Gobernanza**: Copiar los recursos de la carpeta `.github/` para gestionar Issues y PRs de forma profesional.
+5.  **Referencia Global**: Incluir el enlace a este repositorio en el footer como "Powered by Hector Standards".
 
 ---
 
